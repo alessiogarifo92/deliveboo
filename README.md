@@ -1,4 +1,4 @@
-# Boolean Final project - made a deliveroo similar application using all the programming languages learned in the last 6 months using Laravel framework and working in team.
+# Boolean Final project - made a deliveroo similar application using Laravel framework.
 
 ![image](https://user-images.githubusercontent.com/71635987/115529924-9ba36100-a293-11eb-9e72-f4ee9126b30d.png)
 ![image](https://user-images.githubusercontent.com/71635987/115530016-af4ec780-a293-11eb-8332-03ab23015efa.png)
